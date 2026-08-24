@@ -123,7 +123,7 @@ My work sits at the intersection of **engineering, education and emerging techno
 </p>
 
 ---
-<!-- comment
+
 ## 🚀 Featured Work
 
 | Project | What it is | Stack |
@@ -137,7 +137,7 @@ My work sits at the intersection of **engineering, education and emerging techno
 <p align="center"><a href="https://github.com/umraodhananjay?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-1976d2?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
- -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -158,10 +158,70 @@ My work sits at the intersection of **engineering, education and emerging techno
 ## 🏅 GitHub Achievements
 
 <div align="center">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="80" title="Pull Shark ×2" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="80" title="Quickdraw" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="80" title="YOLO" />
+  &nbsp;&nbsp;
+  <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="80" title="Arctic Code Vault Contributor" />
+</div>
 
-| 🦈 Pull Shark ×2 | ⚡ Quickdraw | 🚀 YOLO | 🧊 Arctic Code Vault Contributor |
-|:---:|:---:|:---:|:---:|
+<br />
 
+<table>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="64" />
+    </td>
+    <td valign="top">
+      <b>🦈 Pull Shark</b> &nbsp; <img src="https://img.shields.io/badge/Tier-%C3%972%20Bronze-cd7f32?style=flat-square" />
+      <br />
+      <sub>Earned for merged pull requests — the ×2 tier unlocks past <b>16 merged PRs</b>.</sub>
+      <br />
+      <sub>💡 Most of these come from Virtual Labs experiment repositories, where every simulation fix, content revision and lab release ships through a reviewed pull request.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" />
+    </td>
+    <td valign="top">
+      <b>⚡ Quickdraw</b>
+      <br />
+      <sub>Closed an issue or pull request <b>within 5 minutes</b> of it being opened.</sub>
+      <br />
+      <sub>💡 The badge for fast triage — spotting the problem, fixing it and closing the loop before the coffee gets cold.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" />
+    </td>
+    <td valign="top">
+      <b>🚀 YOLO</b>
+      <br />
+      <sub>Merged a pull request <b>without review</b>. Sometimes the deadline wins.</sub>
+      <br />
+      <sub>💡 Every developer has one of these. Mine came from a lab that had to be live before the demo.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png" width="64" />
+    </td>
+    <td valign="top">
+      <b>🧊 Arctic Code Vault Contributor</b> &nbsp; <img src="https://img.shields.io/badge/Rare-2020%20Archive-00b4d8?style=flat-square" />
+      <br />
+      <sub>Contributed to a repository captured in the <b>GitHub Arctic Code Vault</b> — a snapshot of active open source taken on <b>2 February 2020</b>, written to piqlFilm and stored in a decommissioned coal mine in <b>Svalbard, Norway</b>, engineered to survive <b>1,000 years</b>.</sub>
+      <br />
+      <sub>💡 A one-time, non-repeatable award — this archive is closed. Code I wrote is now sitting 250 metres inside a mountain in the Arctic Circle. 🌍</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://github.com/umraodhananjay?tab=achievements"><img src="https://img.shields.io/badge/View%20all%20achievements-1976d2?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
