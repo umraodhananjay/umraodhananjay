@@ -123,7 +123,7 @@ My work sits at the intersection of **engineering, education and emerging techno
 </p>
 
 ---
-
+<!-- comment
 ## 🚀 Featured Work
 
 | Project | What it is | Stack |
@@ -137,7 +137,7 @@ My work sits at the intersection of **engineering, education and emerging techno
 <p align="center"><a href="https://github.com/umraodhananjay?tab=repositories"><img src="https://img.shields.io/badge/View%20all%20repositories-1976d2?style=for-the-badge&logo=github&logoColor=white" /></a></p>
 
 ---
-
+ -->
 ## 📊 GitHub Stats
 
 <div align="center">
